@@ -1,1 +1,13 @@
-Prueba
+package labartoneta;
+
+/**
+ *
+ * @author Alex
+ */
+import java.util.Scanner;
+public class LABARTONETA {
+public static void main(String[] args) {
+      Scanner s = new Scanner(System.in);
+    }
+
+}
